@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+    }
+
+    #title {
+        text-align: center;
+        color: bisque;
+        border: solid rgb(7, 89, 52);
+        border-radius: 8px;
+        background: rgb(79, 190, 215);
+    }
+    h3 {
+        border: solid rgb(223, 33, 33);
+        border-radius: 8px;
+        text-align: center;
+        color: bisque;
+        font-size: 2rem;
+        font-weight: 400;
+    }
+ 
+    p {
+        text-align: center;
+        color: aquamarine;
+        font-size: 1.5rem;
+        font-weight: 300;
+    }
